@@ -113,4 +113,5 @@
 - [Japanese Phonetics by Dogen](https://mega.nz/folder/us0zECJI#QRAImzfFHRurzw09Jjswfg) – отличный курс по фонетике и pitch-accent, частично есть на [ютубе](https://www.youtube.com/playlist?list=PLxMXdmBM9wPvsySiMoBzgh8d68xqKz1YP)
 - [Suzuki-kun](https://www.gavo.t.u-tokyo.ac.jp/ojad/phrasing) – сайт, где можно визуализировать pitch-accent любого слова или предложения
 - [jpdb.io](https://jpdb.io/) – база сложности аниме/манги/новелл с точки зрения используемых там слов
+- [Animelon](https://animelon.com/) – аниме с кликабельными японскими субтитрами
 - [Refold](https://refold.la/roadmap/) – методика освоения иностранных языков и хорошее комьюнити
